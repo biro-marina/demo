@@ -2,10 +2,15 @@ package com.example.demo.code;
 
 public class main {
 
-    public static void main(String[] args) {
+    public static void some(String[] args) {
 
         System.out.println(
             "Dev class test"
+                //some comment for the code
+        );
+        System.out.println(
+
+                "some code"
         );
 
 
